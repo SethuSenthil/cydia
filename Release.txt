@@ -1,0 +1,8 @@
+Origin: Sethu Senthil's Jailbreak Repo
+Label: sethusenthil
+Suite: stable
+Version: 1.0
+Codename: sethusenthil
+Architecture: iphoneos-arm
+Components: main
+Description: Like my tweaks? Bug report? Please contact me at sethusenthil.com
